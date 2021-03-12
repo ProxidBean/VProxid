@@ -15,7 +15,7 @@ Support batch provision by json text.
 
 Unsupport UDP connections.
 
-If you need better performance and UDP supported,  please check <a href="https://play.google.com/store/apps/details?id=com.lazybean.vpnperapp">RProxid(root needed)</a>.
+If you need better performance and UDP supported,  please check <a href="https://play.google.com/store/apps/details?id=com.lazybean.socksperapp">RProxid(root needed)</a>.
 
 ## Google Play Link:
 
