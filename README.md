@@ -7,11 +7,11 @@
 
 
 # VProxid
-Proxifier like tool on Android
+Proxifier alternative tool on Android
 
 <b>VProxid allows you to:</b>
 
-VProxid is a Proxifier like tool on the Android platform.
+VProxid is a Proxifier alternative tool on the Android platform.
 
 VProxid allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTP(S) proxy.
 
