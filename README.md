@@ -1,3 +1,11 @@
+<h1 align="center">
+    <a href="https://github.com/EasyLazyBean/VProxid">
+        <img alt="Logo" src="https://github.com/EasyLazyBean/VProxid/blob/main/round_logo_icon.png" width="100">
+    </a>
+    <br>
+</h1>
+
+
 # VProxid
 Proxifier like tool on Android
 
