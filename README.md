@@ -6,18 +6,26 @@
 </h1>
 
 
-# VProxid
-Proxifier alternative tool on Android
-
-<b>VProxid allows you to:</b>
-
+## Welcome to VProxid
 VProxid is a Proxifier alternative tool on the Android platform.
 
 VProxid allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTP(S) proxy.
 
 With VProxid you can easily tunnel all TCP connections on the selected application(s) to different proxy servers, it means VProxid can set different proxy for each application and they can work in parallel.
 
-Support batch provision by json text.
+## VProxid allows you to:
+
+* Run any network applications through a proxy server. No special configuration is required for the software; the entire process is completely transparent.
+
+* Set different proxies for selected application(s) at the same time.
+
+* Access the Internet from a restricted network through a proxy server gateway.
+
+* Bypass firewall restrictions.
+
+* Secure privacy by hiding your IP address.
+
+* View information like status, public IPs, traffic, in real-time.
 
 <b>VProxid limitations:</b>
 
